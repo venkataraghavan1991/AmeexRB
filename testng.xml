@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" parallel="classes">
+	<test thread-count="1" name="Test">
+		<classes>
+			<class name="com.ameexrb.testcases.TC001_LoginLogOut" />
+			<class name="com.ameexrb.testcases.TC003_CreateLead" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
